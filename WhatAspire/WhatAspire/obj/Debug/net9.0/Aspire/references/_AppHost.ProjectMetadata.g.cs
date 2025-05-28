@@ -8,5 +8,5 @@ namespace Projects;
 public class WhatAspire
 {
     private WhatAspire() { }
-    public static string ProjectPath => """C:\minhtai\_dev\mes-system\WhatAspire\WhatAspire""";
+    public static string ProjectPath => """C:\minhtai\aspire-dotnet\WhatAspire\WhatAspire""";
 }

@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "aspire",
+    "Projects": [
+      {
+        "Path": "AspireProject\\AspireProject.ApiService\\AspireProject.ApiService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AspireProject\\AspireProject.Web\\AspireProject.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AspireProject\\AspireProject.AppHost\\AspireProject.AppHost.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "New Profile (1)",
+    "Projects": []
+  }
+]

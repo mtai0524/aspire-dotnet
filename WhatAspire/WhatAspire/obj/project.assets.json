@@ -3373,11 +3373,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\minhtai\\_dev\\mes-system\\WhatAspire\\WhatAspire\\WhatAspire.csproj",
+      "projectUniqueName": "C:\\minhtai\\aspire-dotnet\\WhatAspire\\WhatAspire\\WhatAspire.csproj",
       "projectName": "WhatAspire",
-      "projectPath": "C:\\minhtai\\_dev\\mes-system\\WhatAspire\\WhatAspire\\WhatAspire.csproj",
+      "projectPath": "C:\\minhtai\\aspire-dotnet\\WhatAspire\\WhatAspire\\WhatAspire.csproj",
       "packagesPath": "C:\\Users\\mtaidev\\.nuget\\packages\\",
-      "outputPath": "C:\\minhtai\\_dev\\mes-system\\WhatAspire\\WhatAspire\\obj\\",
+      "outputPath": "C:\\minhtai\\aspire-dotnet\\WhatAspire\\WhatAspire\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3411,7 +3411,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -3448,7 +3448,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HfkBWzDhl7s=",
+  "dgSpecHash": "SkrjikX9wxw=",
   "success": true,
-  "projectFilePath": "C:\\minhtai\\_dev\\mes-system\\WhatAspire\\WhatAspire\\WhatAspire.csproj",
+  "projectFilePath": "C:\\minhtai\\aspire-dotnet\\WhatAspire\\WhatAspire\\WhatAspire.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mtaidev\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.3.0\\aspire.dashboard.sdk.win-x64.9.3.0.nupkg.sha512",
     "C:\\Users\\mtaidev\\.nuget\\packages\\aspire.hosting\\9.3.0\\aspire.hosting.9.3.0.nupkg.sha512",

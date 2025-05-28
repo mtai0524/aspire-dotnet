@@ -17,15 +17,15 @@ using System.Reflection;
     "\\ext\\"))]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", ("C:\\Users\\mtaidev\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.3.0\\tools" +
     "\\ext\\bin\\"))]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\minhtai\\_dev\\mes-system\\WhatAspire\\WhatAspire")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\minhtai\\aspire-dotnet\\WhatAspire\\WhatAspire")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "WhatAspire.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", ("C:\\Users\\mtaidev\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.3.0\\tools\\Aspire." +
     "Dashboard.exe"))]
-[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\minhtai\\_dev\\mes-system\\WhatAspire\\WhatAspire\\obj\\")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\minhtai\\aspire-dotnet\\WhatAspire\\WhatAspire\\obj\\")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhatAspire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78acc1672cefc36db5d7eabe911838d896483938")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d121edd764ccba023852b929bfe2ef1207f49f52")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhatAspire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhatAspire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,13 @@
+C:\minhtai\aspire-dotnet\WhatAspire\AspireProject\AspireProject.ServiceDefaults\bin\Debug\net9.0\AspireProject.ServiceDefaults.deps.json
+C:\minhtai\aspire-dotnet\WhatAspire\AspireProject\AspireProject.ServiceDefaults\bin\Debug\net9.0\AspireProject.ServiceDefaults.dll
+C:\minhtai\aspire-dotnet\WhatAspire\AspireProject\AspireProject.ServiceDefaults\bin\Debug\net9.0\AspireProject.ServiceDefaults.pdb
+C:\minhtai\aspire-dotnet\WhatAspire\AspireProject\AspireProject.ServiceDefaults\obj\Debug\net9.0\AspireProject.ServiceDefaults.csproj.AssemblyReference.cache
+C:\minhtai\aspire-dotnet\WhatAspire\AspireProject\AspireProject.ServiceDefaults\obj\Debug\net9.0\AspireProject.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\minhtai\aspire-dotnet\WhatAspire\AspireProject\AspireProject.ServiceDefaults\obj\Debug\net9.0\AspireProject.ServiceDefaults.AssemblyInfoInputs.cache
+C:\minhtai\aspire-dotnet\WhatAspire\AspireProject\AspireProject.ServiceDefaults\obj\Debug\net9.0\AspireProject.ServiceDefaults.AssemblyInfo.cs
+C:\minhtai\aspire-dotnet\WhatAspire\AspireProject\AspireProject.ServiceDefaults\obj\Debug\net9.0\AspireProject.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\minhtai\aspire-dotnet\WhatAspire\AspireProject\AspireProject.ServiceDefaults\obj\Debug\net9.0\AspireProject.ServiceDefaults.sourcelink.json
+C:\minhtai\aspire-dotnet\WhatAspire\AspireProject\AspireProject.ServiceDefaults\obj\Debug\net9.0\AspireProject.ServiceDefaults.dll
+C:\minhtai\aspire-dotnet\WhatAspire\AspireProject\AspireProject.ServiceDefaults\obj\Debug\net9.0\refint\AspireProject.ServiceDefaults.dll
+C:\minhtai\aspire-dotnet\WhatAspire\AspireProject\AspireProject.ServiceDefaults\obj\Debug\net9.0\AspireProject.ServiceDefaults.pdb
+C:\minhtai\aspire-dotnet\WhatAspire\AspireProject\AspireProject.ServiceDefaults\obj\Debug\net9.0\ref\AspireProject.ServiceDefaults.dll
